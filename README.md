@@ -23,6 +23,7 @@ Run CPU alignment tests:
 
 ```powershell
 .\.venv\Scripts\python.exe -m unittest tests.test_alignment -v
+```
 
 ## Development Update - 16 November 2026
 
